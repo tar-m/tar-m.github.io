@@ -1,6 +1,4 @@
-title: Welcome to my test page
-
-# Header 1
+# Is this the title?
 ## Header 2
 ### Header 3
 
