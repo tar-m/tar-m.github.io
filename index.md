@@ -1,5 +1,4 @@
-<title>Example</title>
-
+title: Welcome to my test page
 
 # Header 1
 ## Header 2
